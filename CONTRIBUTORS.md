@@ -242,7 +242,7 @@ into additional languages:
 * Hong Lees (6)
 * Rekc@h (6)
 * Олексій Овдієнко (6)
-* Keiko Machiya (6)
+* Kei Komachiya (6)
 * Timo Dankert (6)
 * Daniele Paradiso (6)
 * Mahmutcan İlhandağ (6)
